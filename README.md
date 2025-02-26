@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?color=0:7564fa,100:8A2BE2,100?&type=slice) 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=FFFFFF&center=true&Center=True&width=1000&lines=Hi!+I'm+Marcelle+Castro!)](https://git.io/typing-svg)
 
 <p align="center" style="display: flex; flex-direction: row; gap: 10px;">
