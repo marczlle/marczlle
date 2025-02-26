@@ -7,6 +7,16 @@
 <br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
+# About me
+
+    Focus on AI: Studying and working with machine learning, NLP, and innovative solutions in Artificial Intelligence
+
+    Technologies: Proficient in Docker and tools for efficient project deployment.
+
+    APIs and more: Experience in building APIs and RAG systems for integrating AI models
+
+
+
 
 
 
