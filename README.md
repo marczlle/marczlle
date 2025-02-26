@@ -2,6 +2,7 @@
 
 <p>
   <img 
+    align = "left"
     alt="GitHub Stats" 
     height="200" 
     style="padding: 5px; border: 5px solid #800080;" 
@@ -9,6 +10,7 @@
   />
 
 <img 
+      align = "left"
       alt="GitHub Stats" 
       height="200" 
       style = "padding: 5px; border: 5px solid #800080;"
