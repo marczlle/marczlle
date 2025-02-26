@@ -2,18 +2,17 @@
 
 <p>
   <img 
-    align = "left"
+    align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding: 5px; border: 5px solid #800080;" 
+    style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=marczlle&show_icons=true&theme=radical&locale=pt-br"
   />
 
 <img 
-      align = "left"
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
-      style = "padding: 5px; border: 5px solid #800080;"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=marczlle&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
