@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marczlle&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="180"/>
 </p> 
 --------------------------------------------------------------------------
-
+<br>
 **Focus on AI:** Studying and working with machine learning, NLP, and innovative solutions in Artificial Intelligence.
 
 **APIs and more:** Experience in building APIs and RAG systems for integrating AI models.
