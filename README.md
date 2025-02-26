@@ -4,7 +4,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marczlle&show_icons=true&theme=tokyonight&locale=pt-br" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marczlle&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="180"/>
 </p> 
--------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------      
       
 **Focus on AI:** Studying and working with machine learning, NLP, and innovative solutions in Artificial Intelligence.
 
