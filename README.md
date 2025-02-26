@@ -7,7 +7,6 @@
 <br>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
-# About me
 
     Focus on AI: Studying and working with machine learning, NLP, and innovative solutions in Artificial Intelligence
 
