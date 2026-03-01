@@ -1,31 +1,23 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8e4f7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=333333&center=true&Center=True&width=1000&lines=Hi!+I'm+Marcelle+Castro+💻!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=333333&center=true&vCenter=true&width=1000&lines=Hi!+I'm+Marcelle+Castro+💻!)](https://git.io/typing-svg)
 
-<!--<p align="center" style="display: flex; flex-direction: row; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=marczlle&show_icons=true&theme=tokyonight&locale=pt-br" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marczlle&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="180"/>
-</p> -->
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marczlle&theme=nord_bright" height="180"/>
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marczlle&theme=nord_bright" height="180"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marczlle&theme=nord_bright" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marczlle&theme=nord_bright" height="180"/>
-</p>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 
-
-    Focus on AI: Studying and working with machine learning, NLP, and innovative solutions in Artificial Intelligence
-
-    Technologies: Proficient in Docker and tools for efficient project deployment.
-
-    APIs and more: Experience in building APIs and RAG systems for integrating AI models
-
-
-
-
-
-
-
-
-
+* **Focus on AI:** Studying and working with machine learning, NLP, and innovative solutions in Artificial Intelligence.
+* **Technologies:** Proficient in Docker and tools for efficient project deployment.
+* **APIs and more:** Experience in building APIs and RAG systems for integrating AI models.
