@@ -8,8 +8,8 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marczlle&theme=tokyonight" height="180"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marczlle&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marczlle&theme=nord_bright" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marczlle&theme=nord_bright" height="180"/>
 </p>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
