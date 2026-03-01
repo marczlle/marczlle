@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:6F03FC,100:800080&height=120&section=header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=c8e4f7&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&color=FFFFFF&center=true&Center=True&width=1000&lines=Hi!+I'm+Marcelle+Castro+💻!)](https://git.io/typing-svg)
 
@@ -6,6 +6,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=marczlle&show_icons=true&theme=tokyonight&locale=pt-br" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marczlle&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" height="180"/>
 </p> -->
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU_USUARIO&theme=tokyonight" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SEU_USUARIO&theme=tokyonight" height="180"/>
+</p>
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 <br>
 
